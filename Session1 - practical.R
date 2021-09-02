@@ -111,12 +111,12 @@ class(l1)
 ## array
 help(array)
 ??array
-vtr1 <- c(7,"a",8,9,1,-1,-3,T)
+vtr1 <- c(7,4,8,9,1,-1,-3,-2)
 length(vtr1)
-vtr2 <- c(3,"b", F,2)
+vtr2 <- c(3,5,-1,2)
 length(vtr2)
 
-arr <- array(c(vtr1,vtr2), dim = c(3,2,2))
+arr <- array(c(vtr1,vtr2), dim = c(2,3,2))
 arr
 class(arr)
 
@@ -128,6 +128,7 @@ mtr
 
 mtr1 <- matrix(1:8,nrow =  4)
 mtr1
+
 
 ## range fumction
 a2 <- 1:8
