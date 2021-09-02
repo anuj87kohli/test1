@@ -1,0 +1,20 @@
+---
+title: "R intro"
+author: "Arun"
+date: "11/04/2021"
+output: html_document
+---
+
+```{r}
+b <- (10.38)
+B = 20L
+class(b)
+class(B)
+
+# Enter numeric data type
+c <- 'Learning R is fun'
+c
+class(c)
+
+```
+
