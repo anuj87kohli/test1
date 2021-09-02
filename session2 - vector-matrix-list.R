@@ -176,6 +176,12 @@ t(mtr)
 ??matrix
 help(matrix)
 
+# adding two vectors 
+v1 <- c(2,3,5)
+v2 <- c(10,15,25)
+v3 <- v1 + v2
+v3
+
 # (C) data frame
 a <- c(2,3,5,1)
 b <- c('aa','ss','dd','dd')
