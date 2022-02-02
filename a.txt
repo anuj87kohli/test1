@@ -2,3 +2,4 @@ Task 1:
 modify a.txt
 Task2: This line is added in Remote Repository at GitHub.
 Task3: I have review the above changes in local repository and push commits.
+Task4: Managing multiple commits
