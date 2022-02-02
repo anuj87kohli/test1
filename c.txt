@@ -1,2 +1,3 @@
 Task3: modify c text
 To track New changes to c.txt
+Task 3a: Manage muliple conflicts through merging in remote repository
