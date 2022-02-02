@@ -1,3 +1,7 @@
 Task3: modify c text
 To track New changes to c.txt
+
 Task 4: Manage muliple conflicts through merging in local repository
+
+
+
