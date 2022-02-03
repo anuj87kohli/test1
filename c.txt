@@ -3,6 +3,10 @@ To track New changes to c.txt
 
 Task 4: Manage muliple conflicts through merging in local repository
 
+
 Task 6: I have done 1st change in c.txt at local repo on master branch
 
+
+Task 5: I have done 1st change in c.txt at local repo on feature-four branch
+Task 5a: I have done 1st change in c.txt at local repo on feature-four branch
 
