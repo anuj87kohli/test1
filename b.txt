@@ -3,3 +3,5 @@ Task 1:Managing multiple commits
 =======
 Task 2: Multiple commits in multiple files from remote repo.
 >>>>>>> 3b4a3348121ccb16352258f2427bb41f19117c4f
+
+Task 3: Stashing in Git
